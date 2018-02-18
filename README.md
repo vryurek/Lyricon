@@ -1,6 +1,5 @@
 # Lyricon
-Spotify client for MTU Team Software Project Fall 2017. It includes basic features from Spotify\
-(such as a music player, playlists, etc.), as well as a display lyrics feature.
+Spotify client originally developed for MTU Team Software Project Fall 2017, but I am continuing it. It includes basic features from Spotify (such as a music player, playlists, etc.), as well as a display lyrics feature.\
 
 This project uses node.js, so you will need to download and install it before you can run this code.\
 Download from here: https://nodejs.org/en/download/
@@ -23,9 +22,9 @@ login screen. We have created a Spotify account specifically for this project (L
 
 
 ### Authors
-Veronica Yurek\
-Sarah Curtis\
-Evan de Jesus\
-Dylan Gaines
+vryurek\
+ejdejesu\
+dcgaines\
+sgcurtis
 
-*All lyrics are property and copyright of their owners and are provided through this application for non-profit personal use only.
+*All lyrics are property and copyright of their owners and are provided through this application for non-profit personal use only. Lyrics are from azlyrics.com.

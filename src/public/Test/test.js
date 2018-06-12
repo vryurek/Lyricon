@@ -2,7 +2,7 @@
  * Unit Tests
  */
 var assert = require('assert');
-var appCode = require('./../../app.js');
+var appCode = require('../../app.js');
 
 /**
  * tests to see if generateRandomString in app.js returns two

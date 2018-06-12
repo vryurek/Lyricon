@@ -8,8 +8,8 @@ var request = require('request'); // "Request" library
 var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 
-var client_id = '614eb3770b4c4c9bad02b628cc428e36'; // client id
-var client_secret = '7e407df73adb4243a9780f52d9a9c1e5'; // the application's secret key
+var client_id = '5104c9514d6e45eca1a34bf88f472863'; // client id
+var client_secret = 'f9db24401e2a4fa6a7f4d817afe46eb5'; // the application's secret key
 var redirect_uri = 'http://localhost:8888/callback'; // redirect uri
 
 /**

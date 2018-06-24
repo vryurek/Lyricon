@@ -28,7 +28,7 @@ of the screen
 div#header {
     background-color: black;
     font-family: LatoWeb;
-    color: #66fcf1;
+    color: #9400D3;
     text-align: center;
     font-size: 8rem;
     position: absolute;
@@ -43,9 +43,25 @@ div#header {
     margin: 0;
 }
 
+div#login_header {
+    font-family: LatoWeb;
+    color: #9400D3;
+    text-align: center;
+    font-size: 10rem;
+    padding: 0 0 5% 0;
+}
+
+.btn-primary:hover {
+    border-color: #ffffff;
+    background-color: #ffffff;
+    color: #9400D3;
+}
+
 .btn-primary {
-    background-color: #66fcf1;
+    background-color: #9400D3;
+    border-color: #9400D3;
     color: black;
+    font-weight: bold;
 }
 
 .btn-primary:hover {
@@ -67,7 +83,7 @@ div#header {
 div#paneHeader {
     background-color: black;
     font-family: LatoWeb;
-    color: #66fcf1;
+    color: #9400D3;
     text-align: center;
     font-size: 2.25rem;
     position: absolute;
@@ -84,7 +100,7 @@ div#paneHeader {
 /* style for the main pane that displays tracks, albums, etc.*/
 #mainPane {
     background-color: black;
-    color: #66fcf1;
+    color: #9400D3;
     font-family: LatoWeb;
     position: absolute;
     left: 20%;
@@ -125,7 +141,7 @@ div#sidebar {
     height: 89vh;
     min-width: 250px;
     border-right: 2px solid dimgray;
-    color: #66fcf1;
+    color: #9400D3;
     padding: 0 0 0 1vw;
     margin: 0;
     overflow-x: hidden;
@@ -142,7 +158,7 @@ div#sidebar {
 
 /*links change color when you mouse over them*/
 .h a:hover, .offcanvas a:focus {
-    color: #66fcf1;
+    color: #9400D3;
 }
 
 .text-overflow {
@@ -168,7 +184,7 @@ div#sidebar {
 }
 
 #show_playlists li a:hover, .offcanvas a:focus {
-    color: #66fcf1;
+    color: #9400D3;
 }
 
 /*style for the text wrapper*/

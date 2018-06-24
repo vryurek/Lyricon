@@ -32,7 +32,7 @@ ul#library_albums li {
 }
 
 .artist-title:hover {
-    color: #66fcf1;
+    color: #9400D3;
 }
 
 .library-album-cover {
@@ -42,7 +42,7 @@ ul#library_albums li {
 .album-title {
     display: block;
     text-decoration: none;
-    color: #66fcf1;
+    color: #9400D3;
 }
 
 .artist-title {
